@@ -1,0 +1,95 @@
+[33mcommit f3f0eeee34ae45c3d1d2c147c4b20575482c5cf7[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: Guilima1044 <guilhermelima2513@gmail.com>
+Date:   Thu Nov 6 12:50:03 2025 -0300
+
+    Correção do registro do banco de dados
+
+[33mcommit 5feaeeb29b6e7ccc72fe5ac2aa9cecd95588e2a4[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: guilima1044 <guilhermelima2513@gmail.com>
+Date:   Mon Nov 3 21:58:26 2025 -0300
+
+    interação back e front
+
+[33mcommit 6913f27abff6906765f355f37b0c53fc2abb127f[m
+Author: guilima1044 <guilhermelima2513@gmail.com>
+Date:   Fri Oct 31 16:31:09 2025 -0300
+
+    Criação e configuração dos botões restantes
+
+[33mcommit 09dd43079a7065fcbfa7bcb6382115769d1565df[m
+Author: guilima1044 <guilhermelima2513@gmail.com>
+Date:   Tue Oct 28 16:14:01 2025 -0300
+
+    alteração de erros
+
+[33mcommit d53bf211ef13617accdfd15bb3977f6780b4de2d[m
+Author: guilima1044 <guilhermelima2513@gmail.com>
+Date:   Tue Oct 28 16:05:08 2025 -0300
+
+    criação da tela de configurações
+
+[33mcommit 69ca6e101a26ee4e30d95ed2a3d3ec868585789d[m
+Author: guilima1044 <guilhermelima2513@gmail.com>
+Date:   Tue Oct 28 15:54:59 2025 -0300
+
+    Criação da aba perfil e ajustes
+
+[33mcommit 4362a29a1cbb91479d60365773e4c7421b18b4e9[m
+Author: guilima1044 <guilhermelima2513@gmail.com>
+Date:   Mon Oct 27 13:24:00 2025 -0300
+
+    Criação da tela de cadastro e resolução de duplicações
+
+[33mcommit 97c2b702ebd9169a9d475aa31ae00c79006fbdbc[m
+Author: Davi Lins de Aráujo Melo <davilins034@gmail.com>
+Date:   Wed Oct 15 18:45:48 2025 -0300
+
+    Adicão de funcionalidades extras e remoções de alguns comentarários desnecessários
+
+[33mcommit 29f5b4a8e9714639697a52ebe6ec829074a8c8fc[m
+Author: guilima1044 <guilhermelima2513@gmail.com>
+Date:   Tue Oct 14 18:04:54 2025 -0300
+
+    Tela 3 e funcionalidades de botões
+
+[33mcommit 5d6873cb2972538b663664bed37ad4d3ffe11e19[m
+Author: guilima1044 <guilhermelima2513@gmail.com>
+Date:   Tue Oct 14 16:43:38 2025 -0300
+
+    Criação Tela 2 (Login)
+
+[33mcommit 7e465785195ef5df215ce2305a641f3ca2b37973[m
+Author: Davi Lins de Aráujo Melo <davilins034@gmail.com>
+Date:   Tue Oct 14 15:41:34 2025 -0300
+
+    atualização
+
+[33mcommit c0e5081ea3a9d4b5e5afcac5fb977a88fb7313c5[m
+Author: Davi Lins de Aráujo Melo <davilins034@gmail.com>
+Date:   Tue Oct 14 15:37:00 2025 -0300
+
+    tela home atualização
+
+[33mcommit 17ca1e974f76ecb283b45006bb6717491b9479f5[m
+Author: Davi Lins de Aráujo Melo <davilins034@gmail.com>
+Date:   Tue Oct 14 15:15:30 2025 -0300
+
+    Atualização final da tela HOME tela 1
+
+[33mcommit 6c968fa780ab57074188447ce92a0ff2a92cd202[m
+Author: Davi Lins de Aráujo Melo <davilins034@gmail.com>
+Date:   Tue Oct 14 15:10:13 2025 -0300
+
+    Finalização Tela 1
+
+[33mcommit 5e0630f84c5248d2d13cfb0713f3f25d90261306[m
+Author: Davi Lins de Aráujo Melo <davilins034@gmail.com>
+Date:   Tue Oct 14 00:15:21 2025 -0300
+
+    Tela 1 GameConnect
+
+[33mcommit 9c83f3f1869cd81e205cfa8e71b0aed0f3cbb154[m
+Author: Davi Lins de Aráujo Melo <davilins034@gmail.com>
+Date:   Tue Oct 14 00:05:10 2025 -0300
+
+    first commit

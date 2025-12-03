@@ -1,19 +1,15 @@
-
-
 import React from 'react';
 import { Navigate, Outlet } from 'react-router-dom';
-import { useAuth } from '../../context/AuthContext.jsx'; 
+import { useAuth } from '../../context/AuthContext.jsx';
 
 function ProtectedRoute() {
-  const { isAuthenticated } = useAuth(); // Pega o estado de autenticação do contexto
+  const { token, isAuthenticated } = useAuth();
 
-  
-  if (!isAuthenticated) {
-    
+  // Bloqueia se não estiver autenticado ou se não existir token
+  if (!isAuthenticated || !token) {
     return <Navigate to="/login" replace />;
   }
 
-  
   return <Outlet />;
 }
 
